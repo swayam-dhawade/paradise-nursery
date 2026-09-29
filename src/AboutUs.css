@@ -1,0 +1,29 @@
+.about-us-container {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 30px 40px;
+  border-radius: 16px;
+  max-width: 800px;
+  margin: 20px auto;
+  color: #ffffff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.about-us-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: #a7f3d0;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+.about-us-description,
+.about-us-content {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 14px;
+  text-align: justify;
+}
